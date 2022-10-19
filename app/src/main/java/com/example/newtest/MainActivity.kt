@@ -11,7 +11,6 @@ class MainActivity : AppCompatActivity() {
 
         // * testingkkkkkk
         //onno kichu
-=======
-       
+        //gg ez
     }
 }
