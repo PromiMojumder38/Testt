@@ -10,7 +10,8 @@ class MainActivity : AppCompatActivity() {
 
 
         // * testingkkkkkk
-        //onno kichu
+        //onno kichu lekhsi
         //gg ez
+        //ejfednjed
     }
 }
